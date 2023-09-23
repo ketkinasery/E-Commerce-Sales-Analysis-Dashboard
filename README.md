@@ -42,3 +42,4 @@ _Profit_- Profit earned value from product's order <br>
 6.	Implemented Map Chart for showcasing Sales by State.
 
 ### Final Interactive Dashboard
+![Dashboard](https://github.com/ketkinasery/E-Commerce-Sales-Analysis-Dashboard/assets/145470599/f633fff7-630e-4481-b0fd-a4109f6d7f51)
